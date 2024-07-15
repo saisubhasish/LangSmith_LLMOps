@@ -1,5 +1,10 @@
+uvicorn
+fastapi
 langsmith
+langserve
 langchain
+sse_starlette
 python-dotenv
 langchain_core
 langchain_openai
+langchain_community
